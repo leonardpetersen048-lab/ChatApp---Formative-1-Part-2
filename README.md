@@ -1,4 +1,4 @@
-# ChatApp – Formative 1 Part 2
+# ChatApp – Formative 2 Part 2
 
 ## Overview
 
@@ -41,7 +41,7 @@ The application demonstrates Java programming concepts, object-oriented programm
 ## Project Structure
 
 ```text
-ChatApp - formative 1 part 2/
+ChatApp - formative 2 part 2/
 ├── src/
 │   ├── main/
 │   │   └── java/
@@ -116,4 +116,4 @@ This project provides practical experience in:
 
 **Student:** Leonard Petersen - ST10504745  
 **Module:** PROG5121 – Programming 1A  
-**Project:** ChatApp – Formative 1 Part 2
+**Project:** ChatApp – Formative 2 Part 2
