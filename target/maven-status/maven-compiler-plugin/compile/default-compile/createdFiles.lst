@@ -1,0 +1,4 @@
+com\chatapp\Message.class
+com\chatapp\MainApp.class
+com\chatapp\MessageJsonStore.class
+com\chatapp\Login.class
