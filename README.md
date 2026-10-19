@@ -75,7 +75,7 @@ Before running the project, ensure that you have:
 1. Download or clone this repository from GitHub.
 2. Open Apache NetBeans.
 3. Select **File → Open Project**.
-4. Locate and open the `ChatApp - formative 1 part 2` project folder.
+4. Locate and open the `ChatApp - formative 2 part 2` project folder.
 5. Allow Maven to load the project's dependencies.
 6. Locate `MainApp.java` under Source Packages.
 7. Right-click `MainApp.java` and select **Run File**, or right-click the project and select **Run**.
