@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-/**
+/** 
  * JUnit 5 tests for ChatApp 
  *
  * @author Leonard Petersen
