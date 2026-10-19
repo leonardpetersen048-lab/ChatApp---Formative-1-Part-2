@@ -114,6 +114,6 @@ This project provides practical experience in:
 
 ## Author
 
-**Student:** Leonard Petersen  
+**Student:** Leonard Petersen - ST10504745  
 **Module:** PROG5121 – Programming 1A  
 **Project:** ChatApp – Formative 1 Part 2
